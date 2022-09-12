@@ -1,0 +1,94 @@
+[
+  {
+    "_id": "5b21ca3eeb7f6fbccd471815",
+    "Title": "Terminator",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471818",
+      "name": "Action"
+    },
+    "Stock": 6,
+    "Rate": 2.5,
+    "publishDate": "2018-01-03T19:04:28.809Z",
+    "liked": true
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471816",
+    "Title": "Die Hard",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471818",
+      "name": "Action"
+    },
+    "Stock": 5,
+    "Rate": 2.5
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471817",
+    "Title": "Get Out",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471820",
+      "name": "Thriller"
+    },
+    "Stock": 8,
+    "Rate": 3.5
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471819",
+    "Title": "Trip to Italy",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471814",
+      "name": "Comedy"
+    },
+    "Stock": 7,
+    "Rate": 3.5
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181a",
+    "Title": "Airplane",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471814",
+      "name": "Comedy"
+    },
+    "Stock": 7,
+    "Rate": 3.5
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181b",
+    "Title": "Wedding Crashers",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471814",
+      "name": "Comedy"
+    },
+    "Stock": 7,
+    "Rate": 3.5
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181e",
+    "Title": "Gone Girl",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471820",
+      "name": "Thriller"
+    },
+    "Stock": 7,
+    "Rate": 4.5
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181f",
+    "Title": "The Sixth Sense",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471820",
+      "name": "Thriller"
+    },
+    "Stock": 4,
+    "Rate": 3.5
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471821",
+    "Title": "The Avengers",
+    "Genre": {
+      "_id": "5b21ca3eeb7f6fbccd471818",
+      "name": "Action"
+    },
+    "Stock": 7,
+    "Rate": 3.5
+  }
+]

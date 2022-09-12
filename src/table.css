@@ -1,0 +1,52 @@
+.head-table {
+  border-collapse: collapse;
+}
+
+.body-table {
+  border-spacing: 0 15px;
+  border-top: 1px black solid;
+}
+
+/* table {
+  border-collapse: separate;
+  border-spacing: 0 15px;
+  border-bottom: 1px black solid;
+} */
+
+th {
+  background-color: #4287f5;
+  color: white;
+}
+th,
+td {
+  width: 150px;
+  text-align: center;
+  padding: 5px;
+}
+
+.paginationBtn {
+  width: 80px;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.paginationBtn a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid black;
+  color: #4287f5;
+  cursor: pointer;
+}
+
+.paginationBtn a:hover {
+  color: aliceblue;
+  background-color: black;
+}
+
+.paginationActive a {
+  color: aliceblue;
+  background-color: #4287f5;
+}
